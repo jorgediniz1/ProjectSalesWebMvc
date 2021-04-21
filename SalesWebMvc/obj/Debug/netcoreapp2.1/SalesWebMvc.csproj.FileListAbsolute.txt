@@ -34,3 +34,10 @@ D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA 
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
