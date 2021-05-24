@@ -7,7 +7,6 @@ D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA 
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
