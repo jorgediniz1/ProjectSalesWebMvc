@@ -1,6 +1,5 @@
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.json
-D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.json
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.dev.json
@@ -39,5 +38,3 @@ D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA 
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
-D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
-D:\Jorge Diniz\Área de TrabalhoHD\ARQUIVOS CURSO C#\SEÇÃO 18 PROJETO SISTEMA WEB ASPNET CORE\ProjetoWEB\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
